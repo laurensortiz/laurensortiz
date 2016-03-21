@@ -1,0 +1,15 @@
+{
+  "name": "laurensortiz",
+  "version": "1.0.0",
+  "description": "Laurens OB - FSD",
+  "author": "Laurens OB",
+  "main": "./index.json",
+  "scripts": {
+    "postinstall": "lob index.json"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "license": "MIT"
+}
